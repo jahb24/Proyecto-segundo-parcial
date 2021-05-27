@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2018/09/11/22/49/lake-3670864_960_720.jpg');
+    background-size: 100%;
+}
+#mensaje{
+    text-align: center;
+    color: #2c3e50;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-style: italic;
+    margin-top: 20%;
+}
+#formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+input{
+    text-align: center;
+}
+.table th, .table td{
+    border: none;
+    color: aliceblue;
+}
+nav.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+#app {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 55px;
+  }

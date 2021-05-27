@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <a class="navbar-brand" href="#" @click="opcion=0">
-        <img src="https://lh3.googleusercontent.com/proxy/1rGwnx9i-Xbdlc7UYR6sGDOxv2zk0Yew-D9_hugzhZl1Xdo1Xqg-5_2Tuhwf3q9Xcf0y9uZxJqkveOnRUSwHhnCm_M0uTQ" width="30" height="30" class="d-inline-block align-top">
+        <img src="https://firebasestorage.googleapis.com/v0/b/vue-1-c9664.appspot.com/o/biblio.png?alt=media&token=54199181-6a82-4ec0-8bf5-5e5e1443a703" width="30" height="30" class="d-inline-block align-top">
         Biblioteca
       </a>
       <ul class="navbar-nav mr-auto">

@@ -43,7 +43,7 @@
           <td>{{libro.autor}}</td>
           <td>
             <button class="btn btn-outline-primary" @click="selectLibro(libro)">Editar</button>
-            <button class="btn btn-outline-danger" @click="deleteLibro(libro)">Eliminar</button>
+            <button class="btn btn-outline-danger mx-2" @click="deleteLibro(libro)">Eliminar</button>
           </td>
         </tr>
       </tbody>
